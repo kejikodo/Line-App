@@ -1,5 +1,5 @@
-# React,Firebaseを使用して簡易的なLINEのクローンを作成してみた。
-こんにちは、新人エンジニアのkejikodoです。
+# React,Firebaseを使用し簡易的なLINEのクローンを作成してみた。
+こんにちは、新人エンジニアのkejikodoです。       
 今回は、ReactとFirebaseを使用してLINEのクローンを作成してみました。    
 
 ## 概要
