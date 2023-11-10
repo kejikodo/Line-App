@@ -1,4 +1,4 @@
-# React,Firebaseを使用し簡易的なLINEのクローンを作成してみた。
+# ReactとFirebaseを使用し、簡易的なLINEのクローンを作成してみた。
 こんにちは、新人エンジニアのkejikodoです。       
 今回は、ReactとFirebaseを使用してLINEのクローンを作成してみました。    
 
